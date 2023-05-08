@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedcreate-a-class-named-librarybook
+<br>
+Create a class named LibraryBook that contains fields to hold methods for setting and getting a LibraryBook’s title, author, and pageCount. Save the class as LibraryBook.java.Write an application that instantiates five LibraryBook objects and fills in values for the data fields, in non-sorted order. Then continuously prompt the user to enter which field the LibraryBooks should be sorted by – title, author, or pageCount. Perform the requested sort procedure and display the LibraryBook objects. Continuously prompt the user until they indicate they are done sorting. Save the class as LibraryBookSort.java. Use Substantial Comments.
